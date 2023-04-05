@@ -92,7 +92,7 @@ _Below you will find the basics on installation and set up._
    open terminal at ./Where-to-next
    npm install
    ```
-3. Install dependenty packages
+3. Install dependent packages
    ```sh
    npm install --force
    ```
