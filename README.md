@@ -188,7 +188,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-- Harry Cleveland - [@hccleveland](https://github.com/hccleveland) - hcleveland17@gmail.com
+- Harry Cleveland - [@hccleveland](https://github.com/hccleveland) - hccleveland@gmail.com
 - David Wattellier - [@DavidWattellier](https://github.com/DavidWattellier) - wattellierd@yahoo.fr
 - Kenneth Man - [@kman-cc](https://github.com/kman-cc) - kenneth_man@icloud.com
 - Eric Nicolas - [@ericNull](https://github.com/ericNull) - eric.e.nicolas@gmail.com
