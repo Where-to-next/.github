@@ -39,7 +39,7 @@
 
 ## About The Project
 
-[Rage](https://where-to-next-cc.vercel.app)
+[Where to Next](https://where-to-next-cc.vercel.app)
 
 Missed traveling? Are you having daydreams of the next time you can get away?
 Many of us are planning on getting back out there in 2023. But sometimes the hardest part of planning for a trip is figuring out where to go.
