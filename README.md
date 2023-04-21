@@ -190,7 +190,7 @@ Don't forget to give the project a star! Thanks again!
 
 - Harry Cleveland - [@hccleveland](https://github.com/hccleveland)
 - David Wattellier - [@DavidWattellier](https://github.com/DavidWattellier)
-- Kenneth Man - [@kman-cc](https://github.com/kman-cc)
+- Kenneth Man - [@kman-cc](https://github.com/mr-kman)
 - Eric Nicolas - [@ericNull](https://github.com/ericNull)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
